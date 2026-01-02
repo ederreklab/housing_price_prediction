@@ -1,4 +1,4 @@
-
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/be7763b5-6c8a-42c6-ab64-3047407e6062" />
 # Housing Price Prediction with Machine Learning
 
 ## Project Overview
@@ -147,3 +147,4 @@ This project demonstrates a complete machine learning workflow, emphasizing **un
 ## Author
 
 **EderrekLab**
+
